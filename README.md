@@ -1,3 +1,3 @@
-Deprecated. Please instead use:
+Deprecated. Please insteads use:
 
 https://github.com/fpco/haskell.fpcomplete.com
